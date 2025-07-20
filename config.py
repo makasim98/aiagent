@@ -1,1 +1,3 @@
 MAX_READ_CHARS = 10000
+WORKING_DIR = "./calculator"
+MAX_AI_ITERS = 20
